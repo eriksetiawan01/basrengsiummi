@@ -1715,7 +1715,7 @@ section,
 .row {
   display: flex;
   flex-wrap: wrap;
-  gap: 15px; /* Memberikan jarak antar card */
+  gap: 5px; /* Memberikan jarak antar card */
 }
 
 
