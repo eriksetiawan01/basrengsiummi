@@ -1712,6 +1712,13 @@ section,
   padding: 60px 0;
 }
 
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px; /* Memberikan jarak antar card */
+}
+
+
 .article-item {
   text-align: center;
   margin-left: 2px;
