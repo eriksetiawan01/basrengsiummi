@@ -1351,6 +1351,10 @@ section,
 .chefs .team-member .member-img {
   position: relative;
   overflow: hidden;
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 10px;
 }
 
 .chefs .team-member .member-img:after {
