@@ -1165,8 +1165,6 @@ section,
   padding: 0 60px;
   margin-bottom: 15px;
   border-radius: 50%;
-  width: 120px; /* Lebar tetap untuk semua gambar */
-  height: 120px; /* Tinggi tetap untuk semua gambar */
 }
 
 .menu .tab-content .menu-item h4 {
